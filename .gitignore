@@ -1,0 +1,20 @@
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+__pycache__
+
+# jxty
+download
+upload
+*.jpeg
+*.7z
+*.tar.xz
+*test*
+shadow
+
+# wps
+.~*
